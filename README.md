@@ -1,6 +1,6 @@
 Live Preview of the App : https://quote-me-app.netlify.app/
 
-<h1>Quotes App</h1>
+<h1>Quotes App - Frontend Project</h1>
 
 <p>This is a web application that allows users to add and view quotes. The application is built with ReactJS and React Router for the frontend and Firebase for the backend.</p>
 
